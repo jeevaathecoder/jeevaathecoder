@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **Full Stack Developement**
 
-- 🌱 I’m currently learning **DSA with Java**
+- 🌱 I’m currently learning **Spring,React,Cloud**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
